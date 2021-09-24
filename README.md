@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkv178&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkv178" /> </p>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6123cb7fb024f3d20f13eb1d/613d13de270e9b436a9c48af_undraw_dev_productivity_umsq.png">
 
-- 🌱 I’m currently learning **Blockchain**
+<!-- - 🌱 I’m currently learning **Blockchain** -->
 
 - 💬 Ask me about **Web Development**
 
