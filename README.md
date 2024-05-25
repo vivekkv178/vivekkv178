@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads-ssl.webflow.com/6123cb7fb024f3d20f13eb1d/613d1330f12e2e20362cb6e7_banner_1920_500.png)](https://vivekkv.webflow.io/)
+[![MasterHead](https://raw.githubusercontent.com/vivekkv178/cdn/main/portfolio/LinkedIn_Banner.png)](https://vivekkv.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A self-motivated professional with 5+ years of experience in both corporate and startup culture with a focus on E2E Product Development.</h3>
@@ -11,7 +11,6 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **vivekkv178@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
