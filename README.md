@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/vivekkv178/cdn/main/portfolio/LinkedIn_Banner.png)](https://vivekkv.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A self-motivated professional with 5+ years of experience in both corporate and startup culture with a focus on E2E Product Development.</h3>
+<h3 align="center">A Highly-driven professional with over 8 years of diverse experience spanning corporate and startup environments, specializing in End-to-End Product Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkv178&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkv178" /> </p>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6123cb7fb024f3d20f13eb1d/613d13de270e9b436a9c48af_undraw_dev_productivity_umsq.png">
